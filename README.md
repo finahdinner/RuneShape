@@ -15,7 +15,7 @@
 - Each puzzle resets at 00:00 UTC each day.
 - You have a maximum of 5 guesses to correctly identify the in-game icon.
 - After each incorrect guess, as a hint, you will be told the difference between the release date of the item you guessed, and the mystery item.
-- Once the game ends, you can view the global stats (eg see second image below) for today's puzzle, and can copy your result to your clipboard in order to share with friends.
+- Once the game ends, you can view the global stats (see second image below) for today's puzzle, and can copy your result to your clipboard in order to share with friends.
 
 ### Game Images:
 
