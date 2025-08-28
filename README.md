@@ -7,7 +7,6 @@
 - **Frontend**: React (in TypeScript)
 - **Backend**: Django Rest Framework (in Python)
 - **Database**: PostgreSQL
-- Hosted on **AWS EC2** (frontend + backend) and **AWS RDS** (database)
 
 #### Game overview:
 
@@ -20,7 +19,7 @@
 ### Game Images:
 
 #### Game in progress (left) & game completed (right):
-![image1](https://github.com/finahdinner/RuneShape/assets/87808600/5f5d7626-2569-474d-9a30-e934a828bd61)
+<img width="1697" height="1263" alt="runeshape_before_after" src="https://github.com/user-attachments/assets/98598418-c266-46c6-b9a9-f7e41a8f6274" />
 
-#### Global stats:
-![image2](https://github.com/finahdinner/RuneShape/assets/87808600/ef8f5b22-478a-4198-a62b-2850d0b0cf93)
+#### Global & User-specific stats:
+<img width="1243" height="1287" alt="runeshape_stats" src="https://github.com/user-attachments/assets/1b76fd0c-1b5a-4120-9365-36d412df0f07" />
